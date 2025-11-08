@@ -14,7 +14,7 @@ A sleek and modern currency converter web application built with HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link-here.com) <!-- Replace with your actual demo link -->
+[View Live Demo](https://know-currency-values.vercel.app/) <!-- Replace with your actual demo link -->
 
 ## 🛠️ Technologies Used
 
@@ -95,9 +95,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+Mohammed Saad - [@Mohammed Saad](https://www.linkedin.com/in/imohammedsaad/)
 
-Project Link: [https://github.com/your-username/currency-converter](https://github.com/your-username/currency-converter)
+Project Link: [https://github.com/imohammedsaad/currency-converter](https://github.com/imohammedsaad/currency-converter)
 
 ---
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [imohammedsaad](https://github.com/imohammedsaad)
